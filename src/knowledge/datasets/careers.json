@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "source": "Counseling Demo Dataset",
+    "lastUpdated": "2026-07-16",
+    "recordCount": 7
+  },
+  "data": [
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "career-ai-engineer",
+      "name": "Artificial Intelligence / Machine Learning Engineer",
+      "description": "Designs, builds, and deploys intelligence models and algorithms to automate system reasoning.",
+      "demand": "HIGH",
+      "salaryRange": {
+        "min": 1200000,
+        "max": 4500000,
+        "currency": "INR"
+      },
+      "requiredSkills": ["Python", "PyTorch", "Probability", "Linear Algebra", "NLP", "Machine Learning"],
+      "recommendedBranch": ["CSE", "IT", "CSAM"],
+      "futureGrowth": "Expected 35% compound annual market growth through 2030.",
+      "difficulty": "HARD",
+      "workMode": "HYBRID",
+      "industryDomains": ["FinTech", "Healthcare", "EdTech", "E-Commerce", "SaaS"],
+      "averageLearningTime": "12-18 months",
+      "topRecruiters": ["Google", "Microsoft", "OpenAI", "Adobe", "Intel"]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "career-fullstack-dev",
+      "name": "Full Stack Web Developer",
+      "description": "Architects, develops, and maintains both client-side and server-side web application structures.",
+      "demand": "HIGH",
+      "salaryRange": {
+        "min": 800000,
+        "max": 3000000,
+        "currency": "INR"
+      },
+      "requiredSkills": ["JavaScript", "TypeScript", "React", "Node.js", "SQL", "Docker", "REST APIs"],
+      "recommendedBranch": ["CSE", "IT", "CSD"],
+      "futureGrowth": "Steady 15% annual demand rise for responsive, cloud-native web portals.",
+      "difficulty": "MEDIUM",
+      "workMode": "REMOTE",
+      "industryDomains": ["SaaS", "E-Commerce", "EdTech", "Logistics", "Digital Agency"],
+      "averageLearningTime": "6-9 months",
+      "topRecruiters": ["Amazon", "TCS", "Accenture", "Infosys", "Uber"]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "career-data-analyst",
+      "name": "Data Analyst / Data Scientist",
+      "description": "Translates complex datasets into actionable business intelligence using statistics and modeling.",
+      "demand": "HIGH",
+      "salaryRange": {
+        "min": 900000,
+        "max": 3500000,
+        "currency": "INR"
+      },
+      "requiredSkills": ["SQL", "Python", "R", "Tableau", "Statistics", "Pandas", "Excel"],
+      "recommendedBranch": ["CSE", "IT", "CSSS"],
+      "futureGrowth": "25% growth driven by the enterprise transition to data-informed decision strategies.",
+      "difficulty": "MEDIUM",
+      "workMode": "HYBRID",
+      "industryDomains": ["Finance", "Insurance", "Retail", "Healthcare", "Consulting"],
+      "averageLearningTime": "9-12 months",
+      "topRecruiters": ["Deloitte", "Goldman Sachs", "McKinsey", "Walmart Labs", "Mu Sigma"]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "career-cloud-architect",
+      "name": "Cloud Solutions Architect",
+      "description": "Designs and migrates enterprise workflows into scalable, resilient, and secure public cloud environments.",
+      "demand": "HIGH",
+      "salaryRange": {
+        "min": 1500000,
+        "max": 4000000,
+        "currency": "INR"
+      },
+      "requiredSkills": ["AWS", "Terraform", "Linux", "Networking", "Kubernetes", "IAM Security"],
+      "recommendedBranch": ["CSE", "IT", "ECE"],
+      "futureGrowth": "20% growth as systems shift from on-premises servers to cloud structures.",
+      "difficulty": "HARD",
+      "workMode": "HYBRID",
+      "industryDomains": ["SaaS", "Banking", "Telecommunications", "Government Systems"],
+      "averageLearningTime": "12-15 months",
+      "topRecruiters": ["Amazon Web Services", "Microsoft Azure", "Oracle", "Wipro", "IBM"]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "career-cybersecurity-analyst",
+      "name": "Cybersecurity Analyst / Consultant",
+      "description": "Monitors network activities, identifies vulnerabilities, and prevents unauthorized access to systems.",
+      "demand": "HIGH",
+      "salaryRange": {
+        "min": 1000000,
+        "max": 3200000,
+        "currency": "INR"
+      },
+      "requiredSkills": ["Cryptography", "Network Protocols", "Penetration Testing", "SIEM Tools", "Linux"],
+      "recommendedBranch": ["CSE", "IT", "ECE"],
+      "futureGrowth": "30% growth driven by global critical infrastructure threats and strict privacy laws.",
+      "difficulty": "HARD",
+      "workMode": "HYBRID",
+      "industryDomains": ["DefSec", "Banking", "Healthcare", "Energy Utilities", "GovTech"],
+      "averageLearningTime": "9-12 months",
+      "topRecruiters": ["PwC", "CrowdStrike", "KPMG", "EY", "Cisco"]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "career-embedded-engineer",
+      "name": "Embedded Systems / IoT Engineer",
+      "description": "Develops hardware-level software for microcontroller units, sensors, and consumer electronics.",
+      "demand": "MEDIUM",
+      "salaryRange": {
+        "min": 700000,
+        "max": 2500000,
+        "currency": "INR"
+      },
+      "requiredSkills": ["C", "C++", "RTOS", "Microcontrollers", "PCB Design", "SPI/I2C Protocols"],
+      "recommendedBranch": ["ECE", "EEE", "ICE"],
+      "futureGrowth": "18% growth supported by the rollout of smart grid grids and smart household devices.",
+      "difficulty": "HARD",
+      "workMode": "ON_SITE",
+      "industryDomains": ["Automotive", "Robotics", "Defense", "Smart Devices", "Telecommunications"],
+      "averageLearningTime": "12-18 months",
+      "topRecruiters": ["Qualcomm", "Nvidia", "Texas Instruments", "Bosch", "Samsung"]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "career-devops-engineer",
+      "name": "DevOps Engineer",
+      "description": "Bridges the gap between developers and IT staff to accelerate software builds and releases via automation.",
+      "demand": "HIGH",
+      "salaryRange": {
+        "min": 1100000,
+        "max": 3800000,
+        "currency": "INR"
+      },
+      "requiredSkills": ["CI/CD Pipelines", "Docker", "Kubernetes", "Linux Shell", "AWS", "Bash/Python"],
+      "recommendedBranch": ["CSE", "IT"],
+      "futureGrowth": "Continuous high demand as development groups adopt automated deployment systems.",
+      "difficulty": "MEDIUM",
+      "workMode": "REMOTE",
+      "industryDomains": ["SaaS", "E-Commerce", "Gaming Platforms", "Streaming Services"],
+      "averageLearningTime": "9-12 months",
+      "topRecruiters": ["Netflix", "Atlassian", "RedHat", "Capgemini", "Cognizant"]
+    }
+  ]
+}

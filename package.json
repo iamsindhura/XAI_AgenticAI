@@ -1,0 +1,41 @@
+{
+  "name": "xai-agentic-ai-framework",
+  "version": "1.0.0",
+  "description": "A custom lightweight, strongly-typed multi-agent framework foundation for TypeScript and Next.js applications.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:tsc": "tsc",
+    "demo": "ts-node src/demo.ts"
+  },
+  "keywords": [
+    "agentic-ai",
+    "multi-agent",
+    "typescript",
+    "framework"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.5.4",
+    "postcss": "^8.5.19",
+    "tailwindcss": "^3.4.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.4.0",
+    "framer-motion": "^12.42.2",
+    "lucide-react": "^1.24.0",
+    "next": "^15.5.20",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-hook-form": "^7.81.0",
+    "zod": "^4.4.3"
+  }
+}

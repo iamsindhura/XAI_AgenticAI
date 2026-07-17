@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "source": "Counseling Demo Dataset",
+    "lastUpdated": "2026-07-16",
+    "recordCount": 4
+  },
+  "data": [
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "roadmap-ai-engineer",
+      "careerId": "career-ai-engineer",
+      "milestones": [
+        {
+          "semester": 3,
+          "topics": ["Python Foundations", "Linear Algebra", "Calculus", "Basic Statistics"],
+          "projects": ["Numerical Matrix Operations Library"],
+          "certifications": [],
+          "expectedOutcome": "Acquire fundamental mathematical modeling and scripting skills required for ML."
+        },
+        {
+          "semester": 4,
+          "topics": ["Probability Theory", "Data Wrangling with Pandas", "Supervised Learning Models"],
+          "projects": ["House Price Prediction Model", "Iris Flower Classification"],
+          "certifications": ["cert-google-data-analytics"],
+          "expectedOutcome": "Understand traditional statistical regression and classification algorithms."
+        },
+        {
+          "semester": 5,
+          "topics": ["Deep Learning Foundations", "Artificial Neural Networks", "TensorFlow basics"],
+          "projects": ["Digit Recognizer using CNNs", "Customer Churn Neural Network"],
+          "certifications": ["cert-tensorflow-developer"],
+          "expectedOutcome": "Master deep neural networks design, weight tuning, and model compilation."
+        },
+        {
+          "semester": 6,
+          "topics": ["Natural Language Processing", "Computer Vision basics", "Recurrent Networks"],
+          "projects": ["Sentiment Analyzer", "Image Classification Web App"],
+          "certifications": ["cert-azure-ai-engineer"],
+          "expectedOutcome": "Implement sequence modeling for language and image processing filters."
+        },
+        {
+          "semester": 7,
+          "topics": ["Large Language Models", "Transformer Architectures", "Vector Databases", "MLOps"],
+          "projects": ["Custom Document Q&A Bot via RAG", "Model Deployment Pipeline via FastAPI"],
+          "certifications": ["cert-deeplearning-ai-specialization"],
+          "expectedOutcome": "Develop and deploy LLM applications, integrating semantic search indexing and deployment pipelines."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "roadmap-fullstack-dev",
+      "careerId": "career-fullstack-dev",
+      "milestones": [
+        {
+          "semester": 3,
+          "topics": ["HTML5 & CSS3", "Modern JavaScript (ES6+)", "Responsive Web Design"],
+          "projects": ["Responsive Personal Portfolio website", "CSS Grid Layout Clone"],
+          "certifications": ["cert-meta-frontend-dev"],
+          "expectedOutcome": "Build highly responsive and semantically correct static webpages."
+        },
+        {
+          "semester": 4,
+          "topics": ["React JS core", "State Management (Redux/Context)", "API Integration"],
+          "projects": ["E-Commerce Mock Storefront", "Realtime Weather Forecast Portal"],
+          "certifications": [],
+          "expectedOutcome": "Construct interactive frontend components managing asynchronous API state data."
+        },
+        {
+          "semester": 5,
+          "topics": ["Node.js core modules", "Express JS", "RESTful API Design", "MongoDB basics"],
+          "projects": ["REST API server for a Task Manager app", "User Auth system (JWT)"],
+          "certifications": [],
+          "expectedOutcome": "Build lightweight, secure server programs interfacing with databases."
+        },
+        {
+          "semester": 6,
+          "topics": ["SQL Databases", "Prisma ORM", "TypeScript for Backend Development"],
+          "projects": ["Blog Platform with Postgres database integration", "Chat Application using WebSockets"],
+          "certifications": ["cert-aws-cloud-practitioner"],
+          "expectedOutcome": "Build structured relational database architectures using strongly typed TypeScript models."
+        },
+        {
+          "semester": 7,
+          "topics": ["Next.js frameworks", "Docker basics", "CI/CD Deployment pipelines"],
+          "projects": ["Full-stack Collaborative Contacts CRM", "Dockerized deployment on Cloud VPS"],
+          "certifications": ["cert-tf-associate"],
+          "expectedOutcome": "Compile, build, and deploy production-ready server-side rendered apps using Next.js."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "roadmap-cybersecurity-analyst",
+      "careerId": "career-cybersecurity-analyst",
+      "milestones": [
+        {
+          "semester": 3,
+          "topics": ["Linux System Administration", "Networking Basics", "Shell Scripting"],
+          "projects": ["Automated System Backup Script", "Custom IP Subnet Calculator"],
+          "certifications": [],
+          "expectedOutcome": "Gain proficiency in managing Linux directories and writing system scripts."
+        },
+        {
+          "semester": 4,
+          "topics": ["Network Security", "Firewalls", "Cryptography basics", "Access Controls"],
+          "projects": ["Intrusion Detection System setup", "Secure File Transmission using SSH/PGP"],
+          "certifications": ["cert-comp-security-plus"],
+          "expectedOutcome": "Configure firewalls and design cryptographic algorithms to defend networks."
+        },
+        {
+          "semester": 5,
+          "topics": ["Vulnerability Assessment", "OWASP Top 10 vulnerabilities", "SQL Injection exploits"],
+          "projects": ["Web Application Vulnerability Report", "Brute Force Protection server rules"],
+          "certifications": [],
+          "expectedOutcome": "Discover system security flaws in web frameworks and document threats."
+        },
+        {
+          "semester": 6,
+          "topics": ["Penetration Testing methodologies", "Metasploit", "Nmap scripting"],
+          "projects": ["Vulnerability Scan Report", "Wireshark Packet Analysis on mock network traffic"],
+          "certifications": ["cert-ceh"],
+          "expectedOutcome": "Conduct authorized system pen-testing to audit business asset posture."
+        },
+        {
+          "semester": 7,
+          "topics": ["Incident Response plans", "SIEM tools (Splunk)", "Digital Forensics basics"],
+          "projects": ["Threat Hunting Log Analysis Report", "Log monitoring dashboard setup"],
+          "certifications": [],
+          "expectedOutcome": "Coordinate defensive response, log audits, and restore compromised systems."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "lastUpdated": "2026-07-16",
+      "id": "roadmap-data-analyst",
+      "careerId": "career-data-analyst",
+      "milestones": [
+        {
+          "semester": 3,
+          "topics": ["Excel Advanced formulas", "Descriptive Statistics", "Data Aggregation"],
+          "projects": ["Financial Dashboard in Excel", "Census data analysis report"],
+          "certifications": [],
+          "expectedOutcome": "Perform basic data summary, calculations, and plotting operations."
+        },
+        {
+          "semester": 4,
+          "topics": ["SQL Queries", "Relational Database schemas", "Joins & Subqueries"],
+          "projects": ["Retail database querying library", "Database performance tuning reports"],
+          "certifications": ["cert-google-data-analytics"],
+          "expectedOutcome": "Write highly performant SQL queries to isolate multi-dimensional dataset fields."
+        },
+        {
+          "semester": 5,
+          "topics": ["Python Data tools", "Pandas and Numpy", "Data Visualization (Seaborn)"],
+          "projects": ["COVID-19 Trend Analysis dashboard", "Data Cleaning scripts library"],
+          "certifications": [],
+          "expectedOutcome": "Wrangle, clean, and visualize raw database logs using Python notebooks."
+        },
+        {
+          "semester": 6,
+          "topics": ["Business Intelligence Tools", "Tableau or PowerBI dashboard design"],
+          "projects": ["Sales Revenue and Retention Dashboard", "Supply Chain Operations Map"],
+          "certifications": [],
+          "expectedOutcome": "Create interactive executive dashboards translating complex logs to visuals."
+        },
+        {
+          "semester": 7,
+          "topics": ["A/B Testing parameters", "Hypothesis Testing", "Data Storytelling presentation"],
+          "projects": ["Website Landing Page Conversion analysis", "Public Policy impact study report"],
+          "certifications": [],
+          "expectedOutcome": "Verify business hypotheses using statistical confidence intervals and convey details."
+        }
+      ]
+    }
+  ]
+}
